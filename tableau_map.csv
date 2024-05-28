@@ -1,0 +1,254 @@
+"","Location","Count","AvgSalary"
+"1","New York, NY",310,71.2354838709677
+"2","Chicago, IL",130,78.7269230769231
+"3","San Francisco, CA",119,99.2731092436975
+"4","Austin, TX",81,58.7037037037037
+"5","Los Angeles, CA",80,67.63125
+"6","Charlotte, NC",78,68.1730769230769
+"7","Houston, TX",72,62.1805555555556
+"8","Dallas, TX",66,50.5757575757576
+"9","San Diego, CA",62,91.4596774193548
+"10","Philadelphia, PA",56,62.4107142857143
+"11","Denver, CO",47,71.7765957446809
+"12","San Antonio, TX",45,62.6333333333333
+"13","San Jose, CA",38,108.855263157895
+"14","Phoenix, AZ",35,72.6571428571429
+"15","Jersey City, NJ",33,70.6666666666667
+"16","Tempe, AZ",31,69.8548387096774
+"17","Seattle, WA",30,64.5
+"18","Columbus, OH",29,45.3793103448276
+"19","Irving, TX",29,57.2931034482759
+"20","Plano, TX",28,57.6785714285714
+"21","Salt Lake City, UT",22,37.6590909090909
+"22","Santa Clara, CA",22,104.636363636364
+"23","El Segundo, CA",19,68.3421052631579
+"24","Jacksonville, FL",19,56
+"25","Norfolk, VA",18,69.6111111111111
+"26","San Mateo, CA",18,91.0555555555556
+"27","Burbank, CA",17,80.9705882352941
+"28","Indianapolis, IN",17,47.5
+"29","Fort Worth, TX",16,61.34375
+"30","Sunnyvale, CA",16,102.78125
+"31","Mountain View, CA",15,90.3
+"32","Scottsdale, AZ",15,69.9666666666667
+"33","Palo Alto, CA",14,93.9285714285714
+"34","Brooklyn, NY",13,65.6153846153846
+"35","Cupertino, CA",13,105.884615384615
+"36","Hampton, VA",13,59.7692307692308
+"37","Long Beach, CA",13,80.7692307692308
+"38","Redwood City, CA",12,97.0833333333333
+"39","Menlo Park, CA",11,101.863636363636
+"40","Oakland, CA",11,92.8636363636364
+"41","Redmond, WA",11,65.7272727272727
+"42","Wilmington, DE",11,59.7272727272727
+"43","Richardson, TX",10,57.75
+"44","Centennial, CO",9,79.3888888888889
+"45","Downers Grove, IL",9,66.9444444444444
+"46","Foster City, CA",9,85.3888888888889
+"47","Lake Success, NY",9,73.9444444444444
+"48","Santa Monica, CA",9,73.7222222222222
+"49","Arlington, TX",8,54.625
+"50","Glendale, CA",8,66.5
+"51","Greenwood Village, Arapahoe, CO",8,72.25
+"52","Horsham, PA",8,56.0625
+"53","Newark, NJ",8,70.375
+"54","Chandler, AZ",7,70.0714285714286
+"55","Englewood, CO",7,72.5
+"56","Gainesville, FL",7,42
+"57","King of Prussia, PA",7,67.6428571428571
+"58","Mooresville, NC",7,66.7142857142857
+"59","Pasadena, CA",7,49.7857142857143
+"60","Portsmouth, VA",7,66.5
+"61","Anaheim, CA",6,68.9166666666667
+"62","Broomfield, CO",6,83.3333333333333
+"63","Malvern, PA",6,63.8333333333333
+"64","South San Francisco, CA",6,76.75
+"65","Wayne, PA",6,68.6666666666667
+"66","Woodland Hills, CA",6,91.4166666666667
+"67","Aurora, CO",5,81.8
+"68","Florham Park, NJ",5,91.8
+"69","Fremont, CA",5,97
+"70","Glendale, AZ",5,70.5
+"71","Lakewood, CO",5,68.5
+"72","Lehi, UT",5,38.2
+"73","Milpitas, CA",5,74.8
+"74","Pearland, TX",5,78.1
+"75","Allen, TX",4,57
+"76","Athens, GA",4,44
+"77","Burlingame, CA",4,96.125
+"78","Camden, NJ",4,74
+"79","Cerritos, CA",4,63.375
+"80","Culver City, CA",4,60.25
+"81","Huntersville, NC",4,70.25
+"82","Kent, WA",4,69.7807504440497
+"83","Pleasanton, CA",4,77.25
+"84","West Point, PA",4,80
+"85","Arcadia, CA",3,99.6666666666667
+"86","Boulder, CO",3,64.6666666666667
+"87","Chesapeake, VA",3,72.3333333333333
+"88","City of Industry, CA",3,106
+"89","Deerfield, IL",3,90
+"90","Doylestown, PA",3,44.6666666666667
+"91","Fort Mill, SC",3,68.3333333333333
+"92","Grapevine, TX",3,56.1666666666667
+"93","Issaquah, WA",3,60
+"94","Los Gatos, CA",3,122.666666666667
+"95","Louisville, CO",3,75.6666666666667
+"96","Mount Laurel, NJ",3,56.5
+"97","Northbrook, IL",3,65.8333333333333
+"98","Round Rock, TX",3,45.6666666666667
+"99","San Ramon, CA",3,73
+"100","Stanford, CA",3,98
+"101","Sugar Land, TX",3,86.1666666666667
+"102","Union City, CA",3,74.3333333333333
+"103","Weehawken, NJ",3,70.3333333333333
+"104","Alhambra, CA",2,56.5
+"105","Allegheny West, PA",2,56
+"106","Bellevue, WA",2,51
+"107","Berkeley, CA",2,115.5
+"108","Berwyn, PA",2,56
+"109","Beverly Hills, CA",2,67
+"110","Brea, CA",2,81.25
+"111","Broadview, IL",2,63
+"112","Bronx, NY",2,65.75
+"113","Carmel, IN",2,47.5
+"114","DC Ranch, AZ",2,65
+"115","Draper, UT",2,36.5
+"116","Dublin, OH",2,40
+"117","Fairfield, NJ",2,45.5
+"118","Feasterville Trevose, PA",2,59.5
+"119","Franklin Lakes, NJ",2,55.75
+"120","Gardena, CA",2,100.75
+"121","Haworth, NJ",2,73.25
+"122","Hilliard, OH",2,40
+"123","Hoboken, NJ",2,106
+"124","Irwindale, CA",2,66.75
+"125","Kirkland, WA",2,78
+"126","Lackland AFB, TX",2,66.75
+"127","Lewisville, TX",2,63.25
+"128","Long Island City, NY",2,86.75
+"129","Manhasset, NY",2,79.5
+"130","Marina del Rey, CA",2,63.5
+"131","Marlton, NJ",2,80
+"132","Mesa, AZ",2,67.75
+"133","Newark, CA",2,150
+"134","Newport News, VA",2,56
+"135","Northridge, CA",2,76.5
+"136","Oak Brook, IL",2,59
+"137","Parsippany, NJ",2,89
+"138","Pasadena, TX",2,80
+"139","Plymouth Meeting, PA",2,74
+"140","Renton, WA",2,64.5
+"141","Rolling Meadows, IL",2,96.25
+"142","San Rafael, CA",2,70.5
+"143","South Plainfield, NJ",2,62.25
+"144","Stafford, TX",2,33.5
+"145","Summit, NJ",2,69.75
+"146","Topeka, KS",2,51.5
+"147","Venice, CA",2,66.75
+"148","Walnut Creek, CA",2,60.5
+"149","West Chester, PA",2,40.5
+"150","West Orange, NJ",2,105.25
+"151","Westerville, OH",2,53
+"152","Westlake, TX",2,57.25
+"153","Whippany, NJ",2,89
+"154","Woodridge, IL",2,68.25
+"155","Addison, TX",1,63.5
+"156","Alachua, FL",1,42
+"157","Alameda, CA",1,60.5
+"158","American Fork, UT",1,36.5
+"159","Arlington Heights, IL",1,77.5
+"160","Azusa, CA",1,73
+"161","Beech Grove, IN",1,47.5
+"162","Bensalem, PA",1,53
+"163","Berkeley Heights, NJ",1,39.5
+"164","Blue Bell, PA",1,59.5
+"165","Boothwyn, PA",1,88.5
+"166","Bridgeview, IL",1,59
+"167","Burlingame, KS",1,51.5
+"168","Burr Ridge, IL",1,79.5
+"169","Campbell, CA",1,89.5
+"170","Carrollton, TX",1,63
+"171","Carson, CA",1,53.5
+"172","Cedar Park, TX",1,38.5
+"173","Chester Township, PA",1,40.5
+"174","Conshohocken, PA",1,40.5
+"175","Coppell, TX",1,63
+"176","Daly City, CA",1,126
+"177","Des Plaines, IL",1,79.5
+"178","Duarte, CA",1,54
+"179","East Palo Alto, CA",1,72
+"180","El Cajon, CA",1,92
+"181","Elk Grove Village, IL",1,113
+"182","Emeryville, CA",1,99
+"183","Essex Fells, NJ",1,39.5
+"184","Evanston, IL",1,59
+"185","Exton, PA",1,53
+"186","Far Rockaway, NY",1,104.5
+"187","Farmers Branch, TX",1,63
+"188","Fort Eustis, VA",1,80.5
+"189","Fort Lee, NJ",1,59.5
+"190","Fort Sam Houston, TX",1,81
+"191","Fort Washington, PA",1,59.5
+"192","Glenview, IL",1,113
+"193","Great Neck, NY",1,106
+"194","Hanford, CA",1,64
+"195","Harrison, NY",1,72
+"196","Henderson, CO",1,62
+"197","Hercules, CA",1,92.5
+"198","Hermosa Beach, CA",1,79
+"199","Indian Trail, NC",1,64.5
+"200","Inglewood, CA",1,79
+"201","Iselin, NJ",1,72
+"202","Itasca, IL",1,79.5
+"203","Jeffersonville, IN",1,47.5
+"204","Lawrence, IN",1,47.5
+"205","Little Ferry, NJ",1,59.5
+"206","Littleton, CO",1,78.5
+"207","Lone Tree, CO",1,70
+"208","Marin City, CA",1,126
+"209","Maywood, IL",1,113
+"210","Millbrae, CA",1,92.5
+"211","Monterey Park, CA",1,54
+"212","Montvale, NJ",1,72
+"213","Moorestown, NJ",1,71.5
+"214","Mount Vernon, NY",1,58
+"215","National City, CA",1,99
+"216","Newtown Square, PA",1,88.5
+"217","Newtown, PA",1,40.5
+"218","Norristown, PA",1,88.5
+"219","Northfield, IL",1,113
+"220","Northlake, IL",1,79.5
+"221","Novato, CA",1,99
+"222","Panorama City, CA",1,54
+"223","Paoli, PA",1,40.5
+"224","Pico Rivera, CA",1,122.5
+"225","Queens Village, NY",1,72
+"226","Radnor, PA",1,53
+"227","Reedley, CA",1,64
+"228","Ridley Park, PA",1,40.5
+"229","Riverton, UT",1,36.5
+"230","Roanoke, TX",1,68
+"231","San Bruno, CA",1,99
+"232","San Fernando, CA",1,52.5
+"233","Sandy, UT",1,36.5
+"234","Secaucus, NJ",1,104.5
+"235","Signal Hill, CA",1,73
+"236","Smithfield, VA",1,56
+"237","Southlake, TX",1,63
+"238","Spring, TX",1,98.5
+"239","Staten Island, NY",1,72
+"240","Suffolk, VA",1,56
+"241","Tarrant, TX",1,63
+"242","Torrance, CA",1,54
+"243","Valley Stream, NY",1,87
+"244","Virginia Beach, VA",1,56
+"245","Visalia, CA",1,64
+"246","West Conshohocken, PA",1,53
+"247","West Jordan, UT",1,36.5
+"248","West Lake Hills, TX",1,38.5
+"249","Whitestown, IN",1,47.5
+"250","Whittier, CA",1,122.5
+"251","Woodbridge, NJ",1,106
+"252","Woodcliff Lake, NJ",1,72
+"253","Yorktown, VA",1,56

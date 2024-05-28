@@ -2,12 +2,18 @@
 
 ## Overview
 
-This repository contains the R script used to analyze and visualize a dataset of average salaries for data analyst positions. The dataset is sourced from Kaggle and the analysis involves data cleaning, transformation, and various visualizations.
+This repository contains the R script used to analyze and visualize a dataset of average salaries for data analyst positions. The dataset is sourced from [Kaggle](https://www.kaggle.com/code/yashvi/data-analyst-jobs-visualization/input) and the analysis involves data cleaning, transformation, and various visualizations.
 
 ## Dataset
 
 The dataset used in this analysis can be found at the following link:
-[Data Analyst Salary Dataset](https://raw.githubusercontent.com/aysemuu/data-analyst-avg-salary/main/DataAnalyst.csv)
+[Data Analyst Salary Dataset](DataAnalyst.csv)
+
+## Codes
+
+The codes used in this analysis can be found at the following link:
+
+[Data Analyst Avg Salary R File](data_analyst_avg_salary.R)
 
 ## Steps in the Analysis
 
@@ -48,7 +54,7 @@ The Sankey diagram visualizes the flow of average salaries from the top 3 sector
 ## Export Data for Tableau
 
 Summary data is prepared for further visualization in Tableau. The prepared data can be found at the following link:
-[Tableau Map Data](https://raw.githubusercontent.com/aysemuu/data-analyst-avg-salary/main/tableau_map.csv)
+[Tableau Map Data](tableau_map.csv)
 
 # Installation and Usage
 
@@ -65,6 +71,8 @@ git clone https://github.com/aysemuu/data-analyst-avg-salary.git
 ```
 write.csv(data_summary, "path/tableau_map.csv")
 ```
+
+4. Run the script.
 
 ## Dependencies
 
@@ -92,4 +100,4 @@ The results of this analysis are available in the following formats:
 
 # Acknowledgments
 
-The dataset used in this analysis is sourced from Kaggle.
+The dataset used in this analysis is sourced from [Kaggle](https://www.kaggle.com/code/yashvi/data-analyst-jobs-visualization/input).
